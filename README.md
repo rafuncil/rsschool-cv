@@ -1,1 +1,1 @@
-# rsschool-cv
+https://rafuncil.github.io/rsschool-cv/cv
